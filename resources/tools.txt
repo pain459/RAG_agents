@@ -1,0 +1,6 @@
+Webpage crawling:
+firecrawl
+
+pdf to md conversion:
+llama cloud
+https://pdf2md.morethan.io/
