@@ -4,3 +4,6 @@ firecrawl
 pdf to md conversion:
 llama cloud
 https://pdf2md.morethan.io/
+
+csv to md
+https://www.convertcsv.com/csv-to-markdown.htm
