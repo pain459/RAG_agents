@@ -8,6 +8,9 @@ https://pdf2md.morethan.io/
 csv to md
 https://www.convertcsv.com/csv-to-markdown.htm
 
+Node installation
+https://nodejs.org/en/download/current
+
 flowise installer
 https://docs.flowiseai.com/getting-started
 
