@@ -7,3 +7,9 @@ https://pdf2md.morethan.io/
 
 csv to md
 https://www.convertcsv.com/csv-to-markdown.htm
+
+flowise installer
+https://docs.flowiseai.com/getting-started
+
+Supported git repo 
+https://github.com/FlowiseAI/Flowise?tab=readme-ov-file
